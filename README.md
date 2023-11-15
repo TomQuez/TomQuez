@@ -1,5 +1,11 @@
 ### WELCOME 👋
 
+I'm currently a student and i am learning web development.
+Always looking for opportunities and interesting projects to work on.
+I use Python and django, javascript, HTML, CSS and SQL. I'm also ready to learn something new and always open to new languages and frameworks. As i told you, i'm new at this.
+I hope you'll enjoy what you find here. Don't hesitate to give advice ;)
+Thank you for your interest.
+
 <!--
 **TomQuez/TomQuez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
