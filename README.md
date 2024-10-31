@@ -1,6 +1,6 @@
 ### WELCOME 👋
 
-I'm junior developper.
+I'm a junior developper.
 Always looking for opportunities and interesting projects to work on.
 I use Python, React.js, Docker, javascript, HTML, CSS and SQL. I'm also ready to learn something new and always open to new languages and frameworks.
 I hope you'll enjoy what you find here. Don't hesitate to give advice ;)
