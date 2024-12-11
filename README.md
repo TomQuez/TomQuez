@@ -12,7 +12,7 @@ I'm a junior developer passionate about building robust and innovative solutions
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 - 🌱 **Currently Learning:** Exploring advanced topics in TypeScript and deep diving into cloud-native solutions.
-- 🔭 **Projects:** Actively working on integrating authentication solutions with Keycloak and benchmarking PDF-to-HTML conversion libraries.
+- 🔭 **Projects:** Actively working on integrating authentication solutions with Keycloak and benchmarking PDF-to-HTML conversion libraries in LLM document understanding context.
 - 🏗️ **Building:** Applications that leverage FastAPI and React.js for scalable and user-friendly experiences.
 - 🤝 **Collaboration:** Always looking to collaborate on exciting open-source projects and learn from others.
 
