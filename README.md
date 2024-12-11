@@ -15,6 +15,7 @@ I'm a junior developer passionate about building robust and innovative solutions
 - 🔭 **Projects:** Actively working on integrating authentication solutions with Keycloak and benchmarking PDF-to-HTML conversion libraries in LLM document understanding context.
 - 🏗️ **Building:** Applications that leverage FastAPI and React.js for scalable and user-friendly experiences.
 - 🤝 **Collaboration:** Always looking to collaborate on exciting open-source projects and learn from others.
+- **learning new skills:** Actively following courses about ML and LLM for software dev, with Deeplearning.AI, and Coursera.
 
 ### 📫 How to Reach Me
 
