@@ -18,17 +18,11 @@ I'm a junior developer passionate about building robust and innovative solutions
 
 ### 📫 How to Reach Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link-here)
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TomQuez)
 
 ### ⚡ Fun Fact
 
-I’m not just about the code — I’m also into **hiking**, **gardening**, and **DIY projects**! 🛠️
-
-### 📂 Featured Repositories
-
-- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TomQuez&repo=project-name&theme=radical)](https://github.com/TomQuez/project-name)
-- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TomQuez&repo=another-project&theme=radical)](https://github.com/TomQuez/another-project)
+I’m not just about the code — I’m also into **hiking**, **crossfit**, **gardening**, and **DIY projects**! 🛠️
 
 ---
 
