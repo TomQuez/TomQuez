@@ -1,6 +1,6 @@
 ### WELCOME 👋
 
-I'm a junior developer passionate about building robust and innovative solutions! 🚀
+I'm a software developer passionate about building robust and innovative solutions! 🚀
 
 See my personal web page : [`Click here`](https://tomquez.github.io/)
 
